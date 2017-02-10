@@ -1,6 +1,4 @@
 ---
 php7:
-- version: 7.1.0
-  md5: ec2218f97b4edbc35a2d7919ff37a662
 - version: 7.1.1
   md5: 7c565ddf31d69dbc19027e51b6968b79
